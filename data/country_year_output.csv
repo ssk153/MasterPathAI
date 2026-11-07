@@ -1,0 +1,815 @@
+country,year,num_papers
+Afghanistan,2020,1
+Afghanistan,2022,2
+Afghanistan,2023,1
+Albania,2020,1
+Albania,2022,2
+Albania,2023,3
+Algeria,2019,2
+Algeria,2020,2
+Algeria,2021,4
+Algeria,2022,9
+Algeria,2023,2
+Angola,2020,1
+Argentina,2018,9
+Argentina,2019,5
+Argentina,2020,13
+Argentina,2021,23
+Argentina,2022,14
+Argentina,2023,20
+Armenia,2018,147
+Armenia,2019,120
+Armenia,2020,95
+Armenia,2021,86
+Armenia,2022,77
+Armenia,2023,34
+Aruba,2022,1
+Australia,2018,186
+Australia,2019,196
+Australia,2020,223
+Australia,2021,282
+Australia,2022,266
+Australia,2023,173
+Austria,2018,175
+Austria,2019,133
+Austria,2020,122
+Austria,2021,112
+Austria,2022,97
+Austria,2023,66
+Azerbaijan,2018,1
+Azerbaijan,2019,1
+Azerbaijan,2020,2
+Azerbaijan,2022,4
+Bahamas,2022,1
+Bahrain,2018,2
+Bahrain,2019,2
+Bahrain,2020,1
+Bahrain,2021,2
+Bahrain,2022,4
+Bahrain,2023,3
+Bangladesh,2018,4
+Bangladesh,2019,13
+Bangladesh,2020,17
+Bangladesh,2021,16
+Bangladesh,2022,39
+Bangladesh,2023,18
+Barbados,2022,3
+Belarus,2018,146
+Belarus,2019,116
+Belarus,2020,92
+Belarus,2021,73
+Belarus,2022,67
+Belarus,2023,5
+Belgium,2018,182
+Belgium,2019,152
+Belgium,2020,138
+Belgium,2021,123
+Belgium,2022,109
+Belgium,2023,59
+Belize,2022,1
+Benin,2020,1
+Benin,2022,2
+Benin,2023,2
+Bhutan,2018,3
+Bhutan,2019,2
+Bhutan,2020,1
+Bhutan,2021,4
+Bhutan,2022,3
+Bhutan,2023,2
+Bolivia,2018,1
+Bolivia,2020,6
+Bolivia,2021,4
+Bolivia,2022,6
+Bolivia,2023,3
+Bosnia and Herzegovina,2020,2
+Bosnia and Herzegovina,2021,6
+Bosnia and Herzegovina,2022,3
+Bosnia and Herzegovina,2023,1
+Botswana,2020,2
+Botswana,2021,8
+Botswana,2022,2
+Botswana,2023,1
+Brazil,2018,199
+Brazil,2019,151
+Brazil,2020,153
+Brazil,2021,169
+Brazil,2022,136
+Brazil,2023,91
+Brunei Darussalam,2018,1
+Brunei Darussalam,2019,2
+Brunei Darussalam,2020,4
+Brunei Darussalam,2021,2
+Brunei Darussalam,2022,5
+Brunei Darussalam,2023,2
+Bulgaria,2018,182
+Bulgaria,2019,144
+Bulgaria,2020,128
+Bulgaria,2021,120
+Bulgaria,2022,117
+Bulgaria,2023,70
+Burkina Faso,2020,1
+Burkina Faso,2021,1
+Burkina Faso,2022,2
+Burundi,2020,1
+Burundi,2023,1
+Cambodia,2018,8
+Cambodia,2019,19
+Cambodia,2020,21
+Cambodia,2021,16
+Cambodia,2022,19
+Cambodia,2023,17
+Cameroon,2019,2
+Cameroon,2020,1
+Cameroon,2021,2
+Cameroon,2022,6
+Cameroon,2023,4
+Canada,2018,65
+Canada,2019,70
+Canada,2020,84
+Canada,2021,105
+Canada,2022,107
+Canada,2023,95
+Cape Verde,2022,2
+Cape Verde,2023,2
+Central African Republic,2020,1
+Central African Republic,2022,1
+Chad,2020,1
+Chad,2022,2
+Chile,2018,19
+Chile,2019,12
+Chile,2020,23
+Chile,2021,45
+Chile,2022,46
+Chile,2023,32
+China,2018,246
+China,2019,248
+China,2020,335
+China,2021,318
+China,2022,336
+China,2023,220
+Colombia,2018,147
+Colombia,2019,121
+Colombia,2020,101
+Colombia,2021,93
+Colombia,2022,84
+Colombia,2023,39
+Congo,2022,1
+Costa Rica,2018,3
+Costa Rica,2020,3
+Costa Rica,2021,3
+Costa Rica,2022,6
+Costa Rica,2023,3
+Cote d'Ivoire,2019,2
+Cote d'Ivoire,2020,2
+Cote d'Ivoire,2021,3
+Cote d'Ivoire,2022,1
+Cote d'Ivoire,2023,2
+Croatia,2018,150
+Croatia,2019,118
+Croatia,2020,100
+Croatia,2021,81
+Croatia,2022,74
+Croatia,2023,40
+Cuba,2018,1
+Cuba,2019,1
+Cuba,2020,1
+Cuba,2022,7
+Cuba,2023,1
+Cyprus,2018,147
+Cyprus,2019,116
+Cyprus,2020,92
+Cyprus,2021,74
+Cyprus,2022,70
+Cyprus,2023,34
+Czech Republic,2018,154
+Czech Republic,2019,122
+Czech Republic,2020,105
+Czech Republic,2021,99
+Czech Republic,2022,92
+Czech Republic,2023,43
+Democratic Republic Congo,2019,1
+Democratic Republic Congo,2020,3
+Democratic Republic Congo,2021,1
+Democratic Republic Congo,2022,3
+Democratic Republic Congo,2023,3
+Denmark,2018,24
+Denmark,2019,15
+Denmark,2020,31
+Denmark,2021,33
+Denmark,2022,33
+Denmark,2023,38
+Dominican Republic,2018,1
+Dominican Republic,2019,2
+Dominican Republic,2020,2
+Dominican Republic,2022,2
+Dominican Republic,2023,1
+Ecuador,2018,146
+Ecuador,2019,116
+Ecuador,2020,93
+Ecuador,2021,81
+Ecuador,2022,71
+Ecuador,2023,38
+Egypt,2018,150
+Egypt,2019,122
+Egypt,2020,104
+Egypt,2021,95
+Egypt,2022,118
+Egypt,2023,48
+El Salvador,2020,2
+Eritrea,2020,1
+Estonia,2018,147
+Estonia,2019,116
+Estonia,2020,95
+Estonia,2021,77
+Estonia,2022,69
+Estonia,2023,34
+Ethiopia,2018,1
+Ethiopia,2019,2
+Ethiopia,2020,7
+Ethiopia,2021,1
+Ethiopia,2022,9
+Ethiopia,2023,10
+Federated States of Micronesia,2023,2
+Fiji,2021,1
+Fiji,2023,1
+Finland,2018,156
+Finland,2019,124
+Finland,2020,102
+Finland,2021,95
+Finland,2022,88
+Finland,2023,40
+France,2018,204
+France,2019,182
+France,2020,175
+France,2021,178
+France,2022,164
+France,2023,106
+French Guiana,2020,2
+Gabon,2020,1
+Gabon,2023,1
+Gambia,2021,2
+Gambia,2023,1
+Georgia,2018,146
+Georgia,2019,120
+Georgia,2020,92
+Georgia,2021,77
+Georgia,2022,65
+Georgia,2023,31
+Germany,2018,204
+Germany,2019,180
+Germany,2020,183
+Germany,2021,200
+Germany,2022,228
+Germany,2023,146
+Ghana,2018,1
+Ghana,2019,2
+Ghana,2020,8
+Ghana,2021,8
+Ghana,2022,5
+Ghana,2023,6
+Greece,2018,158
+Greece,2019,126
+Greece,2020,105
+Greece,2021,88
+Greece,2022,81
+Greece,2023,48
+Guatemala,2020,2
+Guatemala,2022,2
+Guatemala,2023,2
+Guinea,2022,2
+Guinea,2023,1
+Guinea-Bissau,2022,1
+Guyana,2022,1
+Haiti,2020,1
+Haiti,2021,4
+Haiti,2022,2
+Honduras,2018,1
+Honduras,2019,1
+Honduras,2020,3
+Honduras,2021,1
+Honduras,2022,1
+Honduras,2023,1
+Hong Kong,2018,27
+Hong Kong,2019,36
+Hong Kong,2020,48
+Hong Kong,2021,56
+Hong Kong,2022,73
+Hong Kong,2023,61
+Hungary,2018,149
+Hungary,2019,119
+Hungary,2020,106
+Hungary,2021,91
+Hungary,2022,77
+Hungary,2023,38
+Iceland,2018,6
+Iceland,2019,3
+Iceland,2020,7
+Iceland,2021,8
+Iceland,2022,11
+Iceland,2023,6
+India,2018,185
+India,2019,194
+India,2020,214
+India,2021,255
+India,2022,288
+India,2023,202
+Indonesia,2018,33
+Indonesia,2019,58
+Indonesia,2020,76
+Indonesia,2021,92
+Indonesia,2022,126
+Indonesia,2023,95
+Iran,2018,152
+Iran,2019,138
+Iran,2020,131
+Iran,2021,102
+Iran,2022,119
+Iran,2023,51
+Iraq,2018,1
+Iraq,2019,7
+Iraq,2020,16
+Iraq,2021,17
+Iraq,2022,28
+Iraq,2023,24
+Ireland,2018,152
+Ireland,2019,121
+Ireland,2020,108
+Ireland,2021,84
+Ireland,2022,85
+Ireland,2023,47
+Israel,2018,5
+Israel,2019,7
+Israel,2020,17
+Israel,2021,18
+Israel,2022,26
+Israel,2023,16
+Italy,2018,174
+Italy,2019,156
+Italy,2020,149
+Italy,2021,154
+Italy,2022,163
+Italy,2023,98
+Jamaica,2018,1
+Jamaica,2020,1
+Jamaica,2021,3
+Jamaica,2022,1
+Jamaica,2023,1
+Japan,2018,273
+Japan,2019,310
+Japan,2020,300
+Japan,2021,352
+Japan,2022,337
+Japan,2023,279
+Jordan,2018,1
+Jordan,2019,1
+Jordan,2020,5
+Jordan,2021,7
+Jordan,2022,6
+Jordan,2023,10
+Kazakhstan,2019,4
+Kazakhstan,2020,6
+Kazakhstan,2021,7
+Kazakhstan,2022,12
+Kazakhstan,2023,9
+Kenya,2018,3
+Kenya,2019,6
+Kenya,2020,7
+Kenya,2021,10
+Kenya,2022,11
+Kenya,2023,2
+Kuwait,2018,1
+Kuwait,2019,3
+Kuwait,2020,1
+Kuwait,2021,49
+Kuwait,2022,58
+Kuwait,2023,32
+Kyrgyzstan,2020,2
+Kyrgyzstan,2022,1
+Kyrgyzstan,2023,3
+Laos,2018,4
+Laos,2019,7
+Laos,2020,10
+Laos,2021,2
+Laos,2022,6
+Laos,2023,7
+Latvia,2018,144
+Latvia,2019,77
+Latvia,2020,89
+Latvia,2021,81
+Latvia,2022,74
+Latvia,2023,34
+Lebanon,2018,2
+Lebanon,2019,8
+Lebanon,2020,5
+Lebanon,2021,4
+Lebanon,2022,11
+Lebanon,2023,18
+Liberia,2022,1
+Liberia,2023,2
+Libya,2020,2
+Libya,2023,2
+Lithuania,2018,146
+Lithuania,2019,118
+Lithuania,2020,97
+Lithuania,2021,75
+Lithuania,2022,67
+Lithuania,2023,33
+Luxembourg,2018,1
+Luxembourg,2021,2
+Luxembourg,2022,1
+Luxembourg,2023,2
+Macao,2019,1
+Macao,2020,1
+Macao,2021,2
+Macao,2022,1
+Macao,2023,3
+Madagascar,2020,1
+Madagascar,2023,2
+Malawi,2018,1
+Malawi,2019,1
+Malawi,2020,2
+Malawi,2021,4
+Malawi,2022,5
+Malawi,2023,3
+Malaysia,2018,207
+Malaysia,2019,193
+Malaysia,2020,206
+Malaysia,2021,199
+Malaysia,2022,214
+Malaysia,2023,129
+Maldives,2018,1
+Maldives,2022,1
+Maldives,2023,1
+Mali,2020,1
+Mali,2021,1
+Mali,2022,1
+Mali,2023,1
+Malta,2018,1
+Malta,2020,1
+Malta,2021,2
+Malta,2023,3
+Mauritania,2020,2
+Mauritania,2022,1
+Mauritania,2023,1
+Mauritius,2020,1
+Mauritius,2022,3
+Mexico,2018,153
+Mexico,2019,127
+Mexico,2020,111
+Mexico,2021,121
+Mexico,2022,134
+Mexico,2023,65
+Moldova,2021,1
+Moldova,2022,3
+Moldova,2023,1
+Monaco,2019,1
+Mongolia,2019,1
+Mongolia,2020,2
+Mongolia,2021,2
+Mongolia,2022,6
+Mongolia,2023,4
+Montenegro,2019,29
+Montenegro,2020,82
+Montenegro,2021,70
+Montenegro,2022,60
+Montenegro,2023,30
+Morocco,2018,3
+Morocco,2019,2
+Morocco,2020,3
+Morocco,2021,9
+Morocco,2022,8
+Morocco,2023,4
+Mozambique,2018,1
+Mozambique,2020,2
+Mozambique,2021,4
+Mozambique,2022,3
+Myanmar,2018,10
+Myanmar,2019,6
+Myanmar,2020,26
+Myanmar,2021,23
+Myanmar,2022,20
+Myanmar,2023,6
+Namibia,2021,1
+Namibia,2022,1
+Nepal,2018,1
+Nepal,2019,6
+Nepal,2020,6
+Nepal,2021,5
+Nepal,2022,17
+Nepal,2023,13
+Netherlands,2018,50
+Netherlands,2019,53
+Netherlands,2020,50
+Netherlands,2021,84
+Netherlands,2022,76
+Netherlands,2023,53
+New Zealand,2018,157
+New Zealand,2019,131
+New Zealand,2020,116
+New Zealand,2021,102
+New Zealand,2022,102
+New Zealand,2023,36
+Nicaragua,2020,1
+Nicaragua,2021,1
+Nicaragua,2022,1
+Niger,2020,1
+Niger,2023,1
+Nigeria,2018,14
+Nigeria,2019,14
+Nigeria,2020,19
+Nigeria,2021,20
+Nigeria,2022,23
+Nigeria,2023,15
+North Macedonia,2018,1
+North Macedonia,2019,1
+North Macedonia,2020,5
+North Macedonia,2021,4
+North Macedonia,2022,8
+North Macedonia,2023,1
+Norway,2018,9
+Norway,2019,5
+Norway,2020,23
+Norway,2021,19
+Norway,2022,28
+Norway,2023,14
+Oman,2019,2
+Oman,2020,2
+Oman,2021,3
+Oman,2022,2
+Oman,2023,2
+Pakistan,2018,161
+Pakistan,2019,144
+Pakistan,2020,129
+Pakistan,2021,123
+Pakistan,2022,163
+Pakistan,2023,87
+Palestine,2018,1
+Palestine,2019,1
+Palestine,2020,4
+Palestine,2021,4
+Palestine,2022,3
+Palestine,2023,4
+Panama,2018,3
+Panama,2019,3
+Panama,2020,4
+Panama,2021,6
+Panama,2022,1
+Panama,2023,4
+Papua New Guinea,2018,1
+Papua New Guinea,2020,1
+Papua New Guinea,2021,2
+Paraguay,2018,1
+Paraguay,2020,3
+Paraguay,2023,3
+Peru,2018,3
+Peru,2019,4
+Peru,2020,10
+Peru,2021,13
+Peru,2022,14
+Peru,2023,9
+Philippines,2018,17
+Philippines,2019,30
+Philippines,2020,40
+Philippines,2021,50
+Philippines,2022,44
+Philippines,2023,57
+Poland,2018,167
+Poland,2019,131
+Poland,2020,122
+Poland,2021,107
+Poland,2022,142
+Poland,2023,62
+Portugal,2018,150
+Portugal,2019,127
+Portugal,2020,115
+Portugal,2021,95
+Portugal,2022,88
+Portugal,2023,59
+Puerto Rico,2018,11
+Puerto Rico,2019,25
+Puerto Rico,2020,18
+Puerto Rico,2021,32
+Puerto Rico,2022,31
+Puerto Rico,2023,12
+Qatar,2018,122
+Qatar,2019,60
+Qatar,2020,48
+Qatar,2021,71
+Qatar,2022,58
+Qatar,2023,21
+Reunion,2021,1
+Romania,2018,8
+Romania,2019,6
+Romania,2020,12
+Romania,2021,13
+Romania,2022,29
+Romania,2023,21
+Russian Federation,2018,160
+Russian Federation,2019,143
+Russian Federation,2020,121
+Russian Federation,2021,122
+Russian Federation,2022,97
+Russian Federation,2023,17
+Rwanda,2019,1
+Rwanda,2020,2
+Rwanda,2021,2
+Rwanda,2022,3
+Rwanda,2023,3
+Saudi Arabia,2018,77
+Saudi Arabia,2019,56
+Saudi Arabia,2020,31
+Saudi Arabia,2021,46
+Saudi Arabia,2022,67
+Saudi Arabia,2023,53
+Senegal,2019,1
+Senegal,2020,5
+Senegal,2021,5
+Senegal,2022,8
+Senegal,2023,6
+Serbia,2018,149
+Serbia,2019,119
+Serbia,2020,102
+Serbia,2021,83
+Serbia,2022,82
+Serbia,2023,37
+Seychelles,2022,1
+Sierra Leone,2018,1
+Sierra Leone,2021,1
+Sierra Leone,2022,2
+Sierra Leone,2023,2
+Singapore,2018,39
+Singapore,2019,62
+Singapore,2020,78
+Singapore,2021,99
+Singapore,2022,89
+Singapore,2023,80
+Slovakia,2018,7
+Slovakia,2019,5
+Slovakia,2020,13
+Slovakia,2021,16
+Slovakia,2022,21
+Slovakia,2023,12
+Slovenia,2018,3
+Slovenia,2019,4
+Slovenia,2020,11
+Slovenia,2021,10
+Slovenia,2022,7
+Slovenia,2023,6
+Somalia,2018,1
+Somalia,2022,1
+South Africa,2018,12
+South Africa,2019,23
+South Africa,2020,31
+South Africa,2021,50
+South Africa,2022,34
+South Africa,2023,21
+South Korea,2018,196
+South Korea,2019,167
+South Korea,2020,181
+South Korea,2021,173
+South Korea,2022,201
+South Korea,2023,139
+South Sudan,2018,1
+South Sudan,2023,1
+Spain,2018,172
+Spain,2019,153
+Spain,2020,128
+Spain,2021,140
+Spain,2022,151
+Spain,2023,87
+Sri Lanka,2018,103
+Sri Lanka,2019,100
+Sri Lanka,2020,99
+Sri Lanka,2021,80
+Sri Lanka,2022,74
+Sri Lanka,2023,44
+Sudan,2018,1
+Sudan,2019,3
+Sudan,2020,6
+Sudan,2021,6
+Sudan,2022,2
+Sudan,2023,4
+Swaziland,2020,1
+Sweden,2018,25
+Sweden,2019,35
+Sweden,2020,43
+Sweden,2021,72
+Sweden,2022,71
+Sweden,2023,68
+Switzerland,2018,171
+Switzerland,2019,152
+Switzerland,2020,127
+Switzerland,2021,129
+Switzerland,2022,106
+Switzerland,2023,73
+Syrian Arab Republic,2020,1
+Syrian Arab Republic,2022,5
+Syrian Arab Republic,2023,1
+Taiwan,2018,180
+Taiwan,2019,172
+Taiwan,2020,185
+Taiwan,2021,203
+Taiwan,2022,179
+Taiwan,2023,118
+Tanzania,2019,1
+Tanzania,2020,3
+Tanzania,2022,4
+Tanzania,2023,2
+Thailand,2018,2780
+Thailand,2019,3077
+Thailand,2020,3384
+Thailand,2021,3802
+Thailand,2022,4232
+Thailand,2023,2880
+Timor-Leste,2020,1
+Togo,2020,1
+Togo,2022,1
+Togo,2023,1
+Trinidad and Tobago,2020,2
+Trinidad and Tobago,2021,2
+Trinidad and Tobago,2022,2
+Trinidad and Tobago,2023,3
+Tunisia,2018,1
+Tunisia,2019,1
+Tunisia,2020,4
+Tunisia,2021,4
+Tunisia,2022,8
+Tunisia,2023,5
+Turkey,2018,150
+Turkey,2019,134
+Turkey,2020,110
+Turkey,2021,105
+Turkey,2022,91
+Turkey,2023,58
+Uganda,2018,4
+Uganda,2019,2
+Uganda,2020,10
+Uganda,2021,7
+Uganda,2022,11
+Uganda,2023,7
+Ukraine,2018,147
+Ukraine,2019,117
+Ukraine,2020,96
+Ukraine,2021,79
+Ukraine,2022,72
+Ukraine,2023,37
+United Arab Emirates,2018,4
+United Arab Emirates,2019,4
+United Arab Emirates,2020,9
+United Arab Emirates,2021,18
+United Arab Emirates,2022,17
+United Arab Emirates,2023,9
+United Kingdom,2018,277
+United Kingdom,2019,248
+United Kingdom,2020,270
+United Kingdom,2021,290
+United Kingdom,2022,278
+United Kingdom,2023,217
+United States,2018,510
+United States,2019,511
+United States,2020,527
+United States,2021,607
+United States,2022,654
+United States,2023,432
+Unknown,2018,120
+Unknown,2019,105
+Unknown,2020,85
+Unknown,2021,90
+Unknown,2022,100
+Unknown,2023,57
+Uruguay,2019,1
+Uruguay,2020,3
+Uruguay,2021,5
+Uruguay,2022,3
+Uruguay,2023,4
+Uzbekistan,2018,12
+Uzbekistan,2019,5
+Uzbekistan,2020,12
+Uzbekistan,2021,34
+Uzbekistan,2022,48
+Uzbekistan,2023,13
+Venezuela,2018,1
+Venezuela,2020,2
+Venezuela,2021,1
+Venezuela,2022,1
+Venezuela,2023,1
+Viet Nam,2018,27
+Viet Nam,2019,67
+Viet Nam,2020,81
+Viet Nam,2021,116
+Viet Nam,2022,102
+Viet Nam,2023,82
+Yemen,2020,1
+Yemen,2021,1
+Yemen,2022,3
+Yemen,2023,3
+Yugoslavia,2018,1
+Zambia,2018,1
+Zambia,2020,2
+Zambia,2022,3
+Zambia,2023,2
+Zimbabwe,2018,1
+Zimbabwe,2020,1
+Zimbabwe,2021,4
+Zimbabwe,2022,2
+Zimbabwe,2023,3

@@ -1,0 +1,2 @@
+model,clf_accuracy,clf_precision,clf_recall,clf_f1,clf_roc_auc
+BERT + Logistic Regression,0.8903269754768393,0.7239915074309978,0.9166666666666666,0.8090154211150652,0.9654412918923162

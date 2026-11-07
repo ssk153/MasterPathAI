@@ -1,0 +1,17 @@
+# Operating system and local Python/Jupyter files
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local credentials and configuration
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Large source data; retain locally and regenerate the extracted table
+/ScopusData2018-2023/
+/data/scopus_author_affiliation_2018_2023.csv
